@@ -53,5 +53,5 @@ This platform makes learning simple, interactive, and accessible.
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/Ashutosh2705Yadav/ChaloSeekhein.git
+git clone https://github.com/Vaibhavchaudhary991/ChaloSeekhein.git
 
